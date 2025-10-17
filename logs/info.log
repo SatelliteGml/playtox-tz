@@ -1,0 +1,42 @@
+[2025-10-17 15:46:09] [main] INFO  ApplicationRunner - Application started
+[2025-10-17 15:46:09] [main] INFO  ApplicationRunner - Initial total balance: 40000
+[2025-10-17 15:46:10] [TransferThread-2] INFO  AccountService - Transfer 591 from 66ea0ce2 to cc0389a4 successful | Balances: 66ea0ce2 = 9409, cc0389a4 = 10591
+[2025-10-17 15:46:11] [TransferThread-1] INFO  AccountService - Transfer 4995 from 3cd20ab2 to 4a1148d1 successful | Balances: 3cd20ab2 = 5005, 4a1148d1 = 14995
+[2025-10-17 15:46:11] [TransferThread-3] INFO  AccountService - Transfer 548 from 66ea0ce2 to 3cd20ab2 successful | Balances: 66ea0ce2 = 8861, 3cd20ab2 = 5553
+[2025-10-17 15:46:12] [TransferThread-2] INFO  AccountService - Transfer 4664 from 3cd20ab2 to cc0389a4 successful | Balances: 3cd20ab2 = 889, cc0389a4 = 15255
+[2025-10-17 15:46:13] [TransferThread-2] INFO  AccountService - Transfer 4038 from 66ea0ce2 to cc0389a4 successful | Balances: 66ea0ce2 = 4823, cc0389a4 = 19293
+[2025-10-17 15:46:14] [TransferThread-1] INFO  AccountService - Transfer 4666 from 4a1148d1 to 3cd20ab2 successful | Balances: 4a1148d1 = 10329, 3cd20ab2 = 5555
+[2025-10-17 15:46:15] [TransferThread-2] INFO  AccountService - Transfer 3859 from 4a1148d1 to cc0389a4 successful | Balances: 4a1148d1 = 6470, cc0389a4 = 23152
+[2025-10-17 15:46:15] [TransferThread-3] INFO  AccountService - Transfer 4403 from 4a1148d1 to 66ea0ce2 successful | Balances: 4a1148d1 = 2067, 66ea0ce2 = 9226
+[2025-10-17 15:46:16] [TransferThread-1] INFO  AccountService - Transfer 864 from cc0389a4 to 66ea0ce2 successful | Balances: cc0389a4 = 22288, 66ea0ce2 = 10090
+[2025-10-17 15:46:16] [TransferThread-2] INFO  AccountService - Transfer 1738 from 66ea0ce2 to cc0389a4 successful | Balances: 66ea0ce2 = 8352, cc0389a4 = 24026
+[2025-10-17 15:46:17] [TransferThread-1] INFO  AccountService - Transfer 2687 from 3cd20ab2 to cc0389a4 successful | Balances: 3cd20ab2 = 2868, cc0389a4 = 26713
+[2025-10-17 15:46:18] [TransferThread-2] INFO  AccountService - Transfer 2719 from cc0389a4 to 3cd20ab2 successful | Balances: cc0389a4 = 23994, 3cd20ab2 = 5587
+[2025-10-17 15:46:19] [TransferThread-2] INFO  AccountService - Transfer 1840 from cc0389a4 to 66ea0ce2 successful | Balances: cc0389a4 = 22154, 66ea0ce2 = 10192
+[2025-10-17 15:46:20] [TransferThread-1] INFO  AccountService - Transfer 3032 from cc0389a4 to 4a1148d1 successful | Balances: cc0389a4 = 19122, 4a1148d1 = 5099
+[2025-10-17 15:46:20] [TransferThread-3] INFO  AccountService - Transfer 482 from cc0389a4 to 3cd20ab2 successful | Balances: cc0389a4 = 18640, 3cd20ab2 = 6069
+[2025-10-17 15:46:21] [TransferThread-1] INFO  AccountService - Transfer 3288 from cc0389a4 to 3cd20ab2 successful | Balances: cc0389a4 = 15352, 3cd20ab2 = 9357
+[2025-10-17 15:46:21] [TransferThread-2] INFO  AccountService - Transfer 4703 from 3cd20ab2 to 66ea0ce2 successful | Balances: 3cd20ab2 = 4654, 66ea0ce2 = 14895
+[2025-10-17 15:46:22] [TransferThread-1] INFO  AccountService - Transfer 3864 from 66ea0ce2 to 3cd20ab2 successful | Balances: 66ea0ce2 = 11031, 3cd20ab2 = 8518
+[2025-10-17 15:46:23] [TransferThread-2] INFO  AccountService - Transfer 4285 from 66ea0ce2 to 3cd20ab2 successful | Balances: 66ea0ce2 = 6746, 3cd20ab2 = 12803
+[2025-10-17 15:46:24] [TransferThread-1] INFO  AccountService - Transfer 2252 from 3cd20ab2 to cc0389a4 successful | Balances: 3cd20ab2 = 10551, cc0389a4 = 17604
+[2025-10-17 15:46:24] [TransferThread-2] INFO  AccountService - Transfer 2716 from cc0389a4 to 66ea0ce2 successful | Balances: cc0389a4 = 14888, 66ea0ce2 = 9462
+[2025-10-17 15:46:25] [TransferThread-1] INFO  AccountService - Transfer 1286 from 3cd20ab2 to 66ea0ce2 successful | Balances: 3cd20ab2 = 9265, 66ea0ce2 = 10748
+[2025-10-17 15:46:27] [TransferThread-2] INFO  AccountService - Transfer 4505 from 66ea0ce2 to 3cd20ab2 successful | Balances: 66ea0ce2 = 6243, 3cd20ab2 = 13770
+[2025-10-17 15:46:29] [TransferThread-1] INFO  AccountService - Transfer 3184 from cc0389a4 to 4a1148d1 successful | Balances: cc0389a4 = 11704, 4a1148d1 = 8283
+[2025-10-17 15:46:31] [TransferThread-3] INFO  AccountService - Transfer 882 from 4a1148d1 to 3cd20ab2 successful | Balances: 4a1148d1 = 7401, 3cd20ab2 = 14652
+[2025-10-17 15:46:32] [TransferThread-3] INFO  AccountService - Transfer 3267 from 3cd20ab2 to 66ea0ce2 successful | Balances: 3cd20ab2 = 11385, 66ea0ce2 = 9510
+[2025-10-17 15:46:33] [TransferThread-3] INFO  AccountService - Transfer 4269 from cc0389a4 to 4a1148d1 successful | Balances: cc0389a4 = 7435, 4a1148d1 = 11670
+[2025-10-17 15:46:34] [TransferThread-1] INFO  AccountService - Transfer 4798 from cc0389a4 to 3cd20ab2 successful | Balances: cc0389a4 = 2637, 3cd20ab2 = 16183
+[2025-10-17 15:46:35] [TransferThread-2] INFO  AccountService - Transfer 1994 from cc0389a4 to 66ea0ce2 successful | Balances: cc0389a4 = 643, 66ea0ce2 = 11504
+[2025-10-17 15:46:35] [TransferThread-3] INFO  AccountService - Transfer 3797 from 4a1148d1 to 3cd20ab2 successful | Balances: 4a1148d1 = 7873, 3cd20ab2 = 19980
+[2025-10-17 15:46:36] [TransferThread-1] INFO  AccountService - Transfer 167 from 4a1148d1 to cc0389a4 successful | Balances: 4a1148d1 = 7706, cc0389a4 = 810
+[2025-10-17 15:46:36] [TransferThread-2] INFO  AccountService - Transfer 2583 from 66ea0ce2 to cc0389a4 successful | Balances: 66ea0ce2 = 8921, cc0389a4 = 3393
+[2025-10-17 15:46:36] [main] INFO  ApplicationRunner - Final total balance: 40000
+[2025-10-17 15:46:36] [main] INFO  ApplicationRunner - Validation successful — total balance unchanged.
+[2025-10-17 15:46:36] [main] INFO  ApplicationRunner - Final account balances:
+[2025-10-17 15:46:36] [main] INFO  ApplicationRunner - 66ea0ce2 : 8921
+[2025-10-17 15:46:36] [main] INFO  ApplicationRunner - cc0389a4 : 3393
+[2025-10-17 15:46:36] [main] INFO  ApplicationRunner - 3cd20ab2 : 19980
+[2025-10-17 15:46:36] [main] INFO  ApplicationRunner - 4a1148d1 : 7706
+[2025-10-17 15:46:36] [main] INFO  ApplicationRunner - Application finished.

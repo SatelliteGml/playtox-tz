@@ -23,7 +23,7 @@
             <version>2.0.7</version>
         </dependency>
 
-        <!-- Log4j2 SLF4J Binding (ВМЕСТО slf4j-simple) -->
+        <!-- Log4j2 SLF4J Binding -->
         <dependency>
             <groupId>org.apache.logging.log4j</groupId>
             <artifactId>log4j-slf4j2-impl</artifactId>
